@@ -1,0 +1,25 @@
+{
+  "name": "Assembly", 
+  "directories": [
+      {"id": 1, "name": "B5.pdf", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Assembly\\B5.pdf"}, 
+      {"id": 2, "name": "BB1.pdf", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Assembly\\BB1.pdf"}, 
+      {"id": 3, "name": "BB10.pdf", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Assembly\\BB10.pdf"}, 
+      {"id": 4, "name": "BB101.pdf", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Assembly\\BB101.pdf"}, 
+      {"id": 5, "name": "BB102.pdf", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Assembly\\BB102.pdf"}, 
+      {"id": 6, "name": "BB103.pdf", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Assembly\\BB103.pdf"}, 
+      {"id": 7, "name": "BB104.pdf", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Assembly\\BB104.pdf"}, 
+      {"id": 8, "name": "BB105.pdf", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Assembly\\BB105.pdf"}, 
+      {"id": 9, "name": "BB106.pdf", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Assembly\\BB106.pdf"}, 
+      {"id": 10, "name": "BB107.pdf", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Assembly\\BB107.pdf"}, 
+      {"id": 11, "name": "BB108.pdf", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Assembly\\BB108.pdf"}, 
+      {"id": 12, "name": "BB111.pdf", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Assembly\\BB111.pdf"}, 
+      {"id": 13, "name": "BB118.pdf", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Assembly\\BB118.pdf"}, 
+      {"id": 14, "name": "BB119.pdf", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Assembly\\BB119.pdf"}, 
+      {"id": 15, "name": "BB12.pdf", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Assembly\\BB12.pdf"}, 
+      {"id": 16, "name": "BB120.pdf", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Assembly\\BB120.pdf"}, 
+      {"id": 17, "name": "BB125.pdf", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Assembly\\BB125.pdf"}, 
+      {"id": 18, "name": "BB126.pdf", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Assembly\\BB126.pdf"}, 
+      {"id": 19, "name": "BB127.pdf", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Assembly\\BB127.pdf"}, 
+      {"id": 20, "name": "BB128.pdf", "path": "M:\\Contracts\\13-590 American Dream\\25_Drawings_And_NC_Files\\Assembly\\BB128.pdf"}
+  ]
+}
